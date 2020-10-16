@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/15 06:29:12.000.409,=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/15 09:08:42.000.734,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitPrincipal.pas</Transaction>
+    <Transaction>2020/10/15 09:08:42.000.734,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitPrincipal.dfm</Transaction>
+    <Transaction>2020/10/15 09:08:54.000.053,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Clinica.dproj</Transaction>
+    <Transaction>2020/10/15 10:23:47.052,=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit2.pas</Transaction>
+    <Transaction>2020/10/15 10:24:17.885,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitCadPacientes.pas=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit2.pas</Transaction>
+    <Transaction>2020/10/15 10:24:17.885,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitCadPacientes.dfm=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit2.dfm</Transaction>
+    <Transaction>2020/10/15 10:24:40.542,=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit3.pas</Transaction>
+    <Transaction>2020/10/15 10:24:54.433,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitCadAgendamentos.dfm=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit3.dfm</Transaction>
+    <Transaction>2020/10/15 10:24:54.433,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitCadAgendamentos.pas=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit3.pas</Transaction>
+    <Transaction>2020/10/15 16:09:00.802,=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2020/10/15 16:20:46.994,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitDM.dfm=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit1.dfm</Transaction>
+    <Transaction>2020/10/15 16:20:46.994,C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\unitDM.pas=C:\Users\Flavio\Documents\Embarcadero\Studio\Projects\Sistema Clinica\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
